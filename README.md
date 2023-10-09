@@ -1,2 +1,2 @@
-# PortSwigger-Academy-Scripts
-Scripts to complete PortSwigger Web Security Academy Labs
+# PortSwigger Academy Scripts
+These are scripts that I created to complete the PortSwigger Academy Labs.
